@@ -1,5 +1,3 @@
-### Rog Ally
-
 # Disable Turbo Boost for All Power Plans
 
 This PowerShell script is designed to disable the processor performance boost mode (often referred to as "Turbo Boost") for all power plans on a Windows system. By disabling this mode, the system may operate with reduced power consumption and heat generation.
