@@ -1,4 +1,4 @@
-# rog_ally
+### Rog Ally
 
 # Disable Turbo Boost for All Power Plans
 
